@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/crazyrabbitltc-mcp-etherscan-server-badge.png)](https://mseep.ai/app/crazyrabbitltc-mcp-etherscan-server)
+
 # MCP Etherscan Server
 
 An MCP (Model Context Protocol) server that provides Ethereum blockchain data tools via Etherscan's API. Features include checking ETH balances, viewing transaction history, tracking ERC20 transfers, fetching contract ABIs, monitoring gas prices, and resolving ENS names.
